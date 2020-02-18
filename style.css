@@ -1,0 +1,16 @@
+.img-responsive {
+    width:99%;
+}
+.p {
+    width:75%;
+}
+
+@media (max-width: 1000px) {
+ .navbar-expand-lg.navbar-light.bg-light{
+    background-color: #ddd !important;
+  }
+  .navbar-brand{
+    color: #37535 !important;
+  }
+}
+
